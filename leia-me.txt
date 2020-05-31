@@ -1,4 +1,31 @@
+TCC: DATA SCIENCE: ANÁLISE EM BASE DE DADOS DE CASOS DE DENGUE (SINAN)
 
-ooooo
+Para executar o arquivo "dengue.ipynb" (Arquivo onde se encontra os scripts).
 
-ricardo galdi
+#########################################################################################
+
+Requisitos:
+    Conta Google para a utilização do Google Colaboratory
+
+
+Como rodar:
+
+    1. - Baixar o arquivo "dengue.ipynb"
+    2. - Entrar no Google Colaboratory - "colab.research.google.com"
+    3. - Logar com a sua conta Google
+    4. - Clicar em Upload e Escolher o arquivo baixado
+    5. - Adicionar o arquivo baixado
+    6. - Clicar em Runtime > Run All ou apertar Ctrl + F9
+
+Todos os arquivos utilizado se encontram no repositório do github: https://github.com/migueelcruz/DataScience_Dengue/
+ 
+#########################################################################################
+
+Autores:
+
+Miguel Botelho Penteado Ribeiro da Cruz -> 99712
+Ricardo Galdi Contini -> 99626
+
+Orientador:
+
+Diego Henrique Negretto
