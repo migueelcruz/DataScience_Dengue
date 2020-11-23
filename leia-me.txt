@@ -15,9 +15,12 @@ Como rodar:
     3. - Logar com a sua conta Google
     4. - Clicar em Upload e Escolher o arquivo baixado
     5. - Adicionar o arquivo baixado
-    6. - Clicar em Runtime > Run All ou apertar Ctrl + F9
+    6. - Fazer o upload do arquivo '35MUE250GC_SIR.shp'
+    7. - Para fazer o upload do arquivo citado acima, ao lado esquerdo vá em Arquivos > Upload e selecione o arquivo '35MUE250GC_SIR.shp'.
+    8. - Após realizar o upload, colar o PATH do arquivo na linha 'sp = gpd.read_file('COLAR O PATH AQUI')'
+    9. - Clicar em Runtime > Run All ou apertar Ctrl + F9
 
-Todos os arquivos utilizado se encontram no repositório do github: https://github.com/migueelcruz/DataScience_Dengue/
+Todos os arquivos utilizado se encontram no repositório do github: https://github.com/migueelcruz/DataScience_Dengue/ na pasta Utilitários.
  
 #########################################################################################
 
